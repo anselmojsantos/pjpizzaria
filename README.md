@@ -1,7 +1,5 @@
 # Curso de javascript com B7Web
 
-<p>Testando um novo comitep</p>
-
 <hr>
 <p>https://anselmojsantos.github.io/pjpizzaria/</p>
 
